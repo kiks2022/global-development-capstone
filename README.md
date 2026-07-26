@@ -45,6 +45,8 @@ The project is delivered as **two linked Power BI dashboards**:
 | `Capstone_Report.pdf` | Full written report (objective, methodology, findings, recommendations) |
 | `README.md` | This file |
 
+> **Note on the raw dataset:** The original WDI CSV file is too large to include in this repository. Please download it directly from the World Bank source link below (see Dataset section) to reproduce or extend this analysis.
+
 ## Data Cleaning Process
 
 Using Power Query in Power BI, the raw WDI data was:
