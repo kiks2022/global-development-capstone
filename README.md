@@ -71,11 +71,11 @@ Full findings, methodology, and recommendations are available in [`Capstone_Repo
 
 ## Demo Video
 
-📹 **[Watch the full walkthrough here]** — *(insert your Google Drive / YouTube link here)*
+📹 **[Watch the full walkthrough here]** — *(https://drive.google.com/file/d/1YxJd_WPKNDx5TpKXAHStvc72lI4nWxnf/view?usp=drive_link)*
 
 ## Connect
 
-📌 [LinkedIn Post](#) — *(insert your LinkedIn post link here)*
+📌 [LinkedIn Post](#) — *(https://www.linkedin.com/in/kikelomo-adekoya/)*
 
 ---
 
